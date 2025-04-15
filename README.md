@@ -61,6 +61,10 @@ This Power BI dashboard provides a consolidated view of key supply chain metrics
 
 ## 🖼️ Dashboard Preview
 
+![Screenshot 2025-04-15 192527](https://github.com/user-attachments/assets/ce8e9cff-77ce-4a3d-a929-9c48f675c8c3)
+
+
+![Screenshot 2025-04-15 192609](https://github.com/user-attachments/assets/09b97f9b-7144-4de6-8405-fb414c4f11b5)
 
 
 ---
